@@ -2,8 +2,7 @@
 
 ###### Создание бесплатного сертификата
 
-`sudo certbot certonly --standalone`
-
+`sudo certbot certonly --standalone` \n
 это создаст файлы в **/etc/letsencrypt/live/<domain>**
   
 Потом делаем из этих фалов keystore.p12 для Java
