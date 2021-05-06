@@ -1,6 +1,6 @@
 # Конфигурации
 
-##### Создание бесплатного сертификата
+#### Создание бесплатного сертификата
 
 1. Создаем файлы в **/etc/letsencrypt/live/domain_name** \
 `sudo certbot certonly --standalone`
